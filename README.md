@@ -14,4 +14,4 @@
 
 # Screenshots
 
-<img src="https://github.com/scheuringtamas/odin-Tic_Tac_Toe/blob/main/Tic_Tac_Toe.png"/>
+<img src="https://github.com/scheuringtamas/odin-Tic-Tac-Toe/blob/main/Tic-Tac-Toe.png"/>
